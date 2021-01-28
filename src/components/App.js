@@ -7,7 +7,7 @@ import Weather from "./Weather";
 import NavBar from "./NavBar";
 
 export default function App() {
-  const [city, setCity] = useState("Eldoret");
+  const [city, setCity] = useState("Hosur");
   const [error, setError] = useState(null);
   const [currentWeather, setCurrentWeather] = useState({});
   const [forecast, setForecast] = useState([]);
