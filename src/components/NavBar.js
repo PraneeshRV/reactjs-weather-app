@@ -61,29 +61,18 @@ const TemporaryDrawer = () => {
     >
       <img src={about} className={classes.aboutImg} alt="about" />
       <Typography className={classes.aboutText} component="div" gutterBottom>
-        <b>ReactWeather</b> is a labor of{" "}
+        <b>Weather-App</b> is made with{" "}
         <span role="img" aria-label="love emoji" style={{ color: "red" }}>
           ♥️
         </span>{" "}
-        project lovingly crafted by{" "}
+        by{" "}
         <a
-          href="https://github.com/denniskigen"
+          href="https://github.com/emperrorpk007"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @denniskigen
+          @praneesh rv
         </a>
-        <p>
-          It draws inspiration from {""}
-          <a
-            href="https://github.com/denniskigen/ng-weather"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            ng-weather
-          </a>
-          , a similar projected written in Angular.
-        </p>
       </Typography>
       <Divider variant="middle" />
       <Typography className={classes.aboutText} component="div" gutterBottom>

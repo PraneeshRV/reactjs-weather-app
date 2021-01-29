@@ -4,7 +4,7 @@
       "recommendation": "Stormy with a bit of rain. Coat required"
     },
     "201": {
-      "recommendation": "Stormy with showers. Grab a brolly on your way out"
+      "recommendation": "Stormy with showers. Grab a umbrella on your way out"
     },
     "202": {
       "recommendation": "It's going to be absolutely torrential out there today. Carry as many umbrellas as you can"
@@ -31,7 +31,7 @@
       "recommendation": "Rainfall incoming. Umbrella for goodness sake!"
     },
     "300": {
-      "recommendation": "Well, a bit of rain never killed anyone. Am I even legally allowed to say er... *frantically deletes*"
+      "recommendation": "Well, a bit of rain never killed anyone"
     },
     "301": {
       "recommendation": "Rain, but not terminal. Be sensible and wear a coat for heavens sake"
@@ -160,13 +160,13 @@
       "recommendation": "Great day for a hanging out the laundry and maybe a nice picnic date later :)"
     },
     "802": {
-      "recommendation": "Love is in the air. Call that special someone up for a coffee"
+      "recommendation": "Great weather to have a cup of coffee with anyone you like to have"
     },
     "803": {
-      "recommendation": "'Netflix and chill' weather. It's pleasant outside"
+      "recommendation": "It's pleasant outside. Free Fire time !!"
     },
     "804": {
-      "recommendation": "Great day for a run. Pack that gym bag"
+      "recommendation": "Great day for workouts. Pack that gym bag"
     }
   },
   "night": {
