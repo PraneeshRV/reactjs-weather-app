@@ -163,7 +163,7 @@ export default function NavBar() {
           <Logo />
           <div style={{ flex: "1 1 auto" }}></div>
           <TemporaryDrawer />
-          <Button className="github-btn">
+          <Button className="by-PRANEESH RV-btn">
             <a
               href="https://github.com/denniskigen/react-weather"
               target="_blank"
