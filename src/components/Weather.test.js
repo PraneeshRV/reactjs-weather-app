@@ -19,7 +19,7 @@ describe("<Weather />", () => {
 
   beforeEach(() => {
     const testProps = {
-      city: "Eldoret",
+      city: "Hosur",
       currentWeather: mockCurrentWeather,
       forecast: mockForecast,
       error: null,
@@ -30,7 +30,7 @@ describe("<Weather />", () => {
   });
 
   test("renders the weather search and app layout", () => {
-    expect(screen.getByText("Eldoret, KE")).toBeInTheDocument();
+    expect(screen.getByText("Hosur, IN")).toBeInTheDocument();
     expect(
       screen.getByText("Wednesday, 10:36 AM, Few Clouds")
     ).toBeInTheDocument();

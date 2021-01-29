@@ -29,9 +29,9 @@ describe("<AppLayout />", () => {
   });
 
   test("renders the elements that make up the app layout", async () => {
-    await screen.findByText("Eldoret, KE");
+    await screen.findByText("Hosur, IN");
 
-    expect(screen.getByText("Eldoret, KE")).toBeInTheDocument();
+    expect(screen.getByText("Hosur, IN")).toBeInTheDocument();
     expect(
       screen.getByText("Wednesday, 10:36 AM, Few Clouds")
     ).toBeInTheDocument();
