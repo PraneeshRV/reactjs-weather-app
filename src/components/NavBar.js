@@ -165,11 +165,11 @@ export default function NavBar() {
           <TemporaryDrawer />
           <Button className="by-PRANEESH RV-btn">
             <a
-              href="https://github.com/denniskigen/react-weather"
+              href="https://github.com/emperrorpk007/reactjs-weather-app"
               target="_blank"
               rel="noopener noreferrer"
             >
-              GitHub
+             by- PRANEESH RV
             </a>
           </Button>
         </Toolbar>
