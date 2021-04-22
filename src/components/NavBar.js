@@ -67,7 +67,7 @@ const TemporaryDrawer = () => {
         </span>{" "}
         by{" "}
         <a
-          href="https://github.com/emperrorpk007"
+          href="https://github.com/PraneeshRV"
           target="_blank"
           rel="noopener noreferrer"
         >
